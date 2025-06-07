@@ -5,10 +5,10 @@
  * Description:          Preencha automaticamente o endereço a partir do CEP no WooCommerce
  * Author:               Fernando Acosta
  * Author URI:           https://fernandoacosta.net
- * Version:              1.3.2
+ * Version:              1.4.0
  * License:              GPLv2 or later
  * WC requires at least: 4.0.0
- * WC tested up to:      8.7.1
+ * WC tested up to:      9.8.5
  *
  * This plugin is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -37,7 +37,7 @@ class WC_Autocomplete_Address {
    *
    * @var float
    */
-  const VERSION = '1.3.2';
+  const VERSION = '1.4.0';
 
   /**
    * Instance of this class.

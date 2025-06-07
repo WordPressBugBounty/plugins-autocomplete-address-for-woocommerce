@@ -3,8 +3,8 @@ Contributors: amgnando
 Donate link: https://fernandoacosta.net
 Tags: endereço, woocommerce, cep, correios
 Requires at least: 5.0.0
-Tested up to: 6.4.3
-Stable tag: 1.3.2
+Tested up to: 6.8.1
+Stable tag: 1.4.0
 Requires PHP: 7.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -33,6 +33,8 @@ Embora o plugin dos Correios do Claudio Sanches funcione bem (inclusive inspirou
 
 Além disso, esse plugin é útil caso você não utilize os Correios, por exemplo.
 
+*Ainda não é compatível com o checkout de blocos do WooCommerce*
+
 == Frequently Asked Questions ==
 
 = Qual é a licença do plugin? =
@@ -45,7 +47,12 @@ Este plugin esta licenciado como GPL.
 
 == Changelog ==
 
-= 1.3.2 - 2024/03/23 =
+= 1.4.0 - 07/06/2025 =
+
+- Melhorias gerais
+- Otimização do código
+
+= 1.3.2 - 23/03/2024 =
 
 - Adicionar sufixo .min ao arquivo JS, prevenindo dupla compressão em alguns plugins de cache
 
